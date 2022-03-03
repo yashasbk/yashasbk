@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yashas B K
-- 👀 I’m interested in embedded and mechanical integration
+- 👀 I’m interested in embedded and mechanical design
 - 🌱 I’m currently learning embedded systems from Emertxe 
 - 💞️ I’m looking to collaborate on building embedded projects
 - 📫 You can reach me out at yashasbk2.yk@gmail.com
